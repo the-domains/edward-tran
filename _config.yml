@@ -1,0 +1,28 @@
+name: Edward Tran
+favicon: null
+layout_spectrum: 0.6518396043684334
+typography_spectrum: 0.022601286647841334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11988084414042532
+  lightness: 0.44649245170876384
+  saturation: 0.6981772056315094
+  rhythmicContrast: 0.7098554966505617
+purpose: []
